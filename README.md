@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Page.</h1>
 
 <p></p>
-  <img src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s1280x1920/4baa320331097d96bf9dbbc1277cfbe4b48f3920.gifv" alt="pixel art" width="80%" height="80%">
+  <img src="https://www.behance.net/gallery/99786133/Mastermind/modules/575837231" alt="pixel art" width="80%" height="80%">
   </a>
 </p>
 
