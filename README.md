@@ -24,10 +24,15 @@
 ##
 <h3 align="center"> 💡 Currently Working On 💡 </h3>
 <p align="center">
-    <a href="https://github.com/SeanMurphy1479/Soundwave-Bot">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave-Bot&hide_border=false&theme=tokyonight&show_icons=true" alt="Soundwave-Bot">
+    <a href="https://github.com/SeanMurphy1479/Soundwave---Discord_Bot" style="text-decoration: none;">
+        <div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 50%; text-align: center;">
+            <h4 style="margin: 0;">Soundwave - Discord Bot</h4>
+            <p style="margin: 10px 0;">TEST</p>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave---Discord_Bot&hide_border=false&theme=tokyonight&show_icons=true" alt="Soundwave - Discord Bot">
+        </div>
     </a>
 </p>
+
 
 
 ##
