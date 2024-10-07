@@ -24,7 +24,7 @@
 ##
 <h3 align="center"> 💡 Currently Working On 💡 </h3>
 <p align="center">
-    <a href="https://github.com/SeanMurphy1479/Soundwave---Discord_Bot" style="text-decoration: none;">
+    <a href="https://github.com/SeanMurphy1479/Soundwave-Bot" style="text-decoration: none;">
         <div align=center style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 50%; text-align: center;">
             <h4 style="margin: 0;">Soundwave - Discord Bot</h4>
             <p style="margin: 10px 0;">TEST</p>
