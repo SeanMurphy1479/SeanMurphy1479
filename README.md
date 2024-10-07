@@ -15,7 +15,7 @@
 
   <h3 align="center"> 📊 My GitHub Stats: </h3>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=holi" alt="SeanMurphy1479" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="SeanMurphy1479" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="SeanMurphy1479" width="500" height="200" />
   <br>
