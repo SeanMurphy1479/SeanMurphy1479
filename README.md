@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://github.com/SeanMurphy1479/Soundwave---Discord_Bot">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave-Bot&hide_border=false&theme=radical&show_icons=true" alt="Soundwave - Discord Bot">
+        <img width="75%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave-Bot&hide_border=false&theme=radical&show_icons=true" alt="Soundwave - Discord Bot">
     </a>
 </p>
 
