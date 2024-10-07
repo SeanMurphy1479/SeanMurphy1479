@@ -17,7 +17,7 @@
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=holi" alt="SeanMurphy1479" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=holi" alt="SeanMurphy1479" width="500" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D" alt="SeanMurphy1479" width="500" height="200" />
   <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
