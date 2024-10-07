@@ -8,15 +8,15 @@
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
+<p align="center">
+  <a href="mailto:seanm6077@gmail.com" style="text-decoration: none;">
+    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
+  </a>
+  <a href="https://www.linkedin.com/in/seán--murphy/" style="text-decoration: none;">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block; background-color: #0077B5; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
+  </a>
+</p>
 
-<p align="center"><a href="mailto:seanm6077@gmail.com" style="text-decoration: none;">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; margin-right: 20px; font-size: 18px;">
-  </a>
-  </a></p>
-  <p align="center"><a href="https://www.linkedin.com/in/seán--murphy/" style="text-decoration: none;">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block; background-color: #0077B5; color: white; padding: 30px 50px; border-radius: 10px; margin-right: 20px; font-size: 18px;">
-  </a>
-  </a></p>
 
   <h3 align="center"> 🖥️ Computing Tools and Languages </h3>
 <p align="center">
