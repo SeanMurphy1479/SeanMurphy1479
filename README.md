@@ -19,8 +19,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=holi" alt="SeanMurphy1479" width="500" height="200" />
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</p>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Se%C3%A1nMurphy1479&theme=github-dark-blue&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 
