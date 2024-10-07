@@ -2,6 +2,8 @@
 
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"/> </p>
+
 <!--
 **SeanMurphy1479/SeanMurphy1479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
