@@ -61,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" alt="SSH" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" style="padding:5px;"/>
-  <img src="https://www.google.com/imgres?q=latex%20software%20logo&imgurl=https%3A%2F%2Fimages.ctfassets.net%2Fnrgyaltdicpt%2F3nesOc6iRhdzatUCC5OKWo%2Fea0fc03647a5f6a903a9aacc357481b2%2Foverleaf-o-logo-primary.jpg&imgrefurl=https%3A%2F%2Fwww.overleaf.com%2Ffor%2Fpartners%2Flogos&docid=rbiyFlSaZsAs9M&tbnid=LeRTLrgoRd2CPM&vet=12ahUKEwi-s6aqqP2IAxV0WkEAHYgmAQEQM3oECCQQAA..i&w=726&h=830&hcb=2&ved=2ahUKEwi-s6aqqP2IAxV0WkEAHYgmAQEQM3oECCQQAA" alt="LaTeX" width="40" height="40" style="padding:5px;"/>
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" alt="LaTeX" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="padding:5px;"/>
 </p>
