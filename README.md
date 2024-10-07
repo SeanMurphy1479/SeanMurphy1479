@@ -11,8 +11,9 @@
 
 <p align="center">
   <a href="mailto:seanm6077@gmail.com" style="text-decoration: none;">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; margin-right:20px; font-size: 18px;">
+    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
   </a>
+  &nbsp&nbsp
   <a href="https://www.linkedin.com/in/seán--murphy/" style="text-decoration: none;">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block; background-color: #0077B5; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
   </a>
