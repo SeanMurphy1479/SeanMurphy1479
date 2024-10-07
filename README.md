@@ -28,7 +28,7 @@
         <div align=center style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; width: 50%; text-align: center;">
             <h4 style="margin: 0;">Soundwave - Discord Bot</h4>
             <p style="margin: 10px 0;">TEST</p>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave---Discord_Bot&hide_border=false&theme=tokyonight&show_icons=true" alt="Soundwave - Discord Bot">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave-Bot&hide_border=false&theme=tokyonight&show_icons=true" alt="Soundwave - Discord Bot">
         </div>
     </a>
 </p>
