@@ -1,5 +1,10 @@
 <h1 align="center">Welcome to my GitHub Page.</h1>
 
+<p></p>
+  <img src="https://64.media.tumblr.com/cb1a6d28f1f97fe56c0764cdf40fc92c/d662df3b2e19bcdc-c5/s1280x1920/4baa320331097d96bf9dbbc1277cfbe4b48f3920.gifv" alt="pixel art" width="80%" height="80%">
+  </a>
+</p>
+
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
