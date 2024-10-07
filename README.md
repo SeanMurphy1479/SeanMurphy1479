@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHib Page.</h1>
+<h1 align="center">Welcome to my GitHub Page.</h1>
 
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
