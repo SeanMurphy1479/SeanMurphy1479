@@ -1,4 +1,6 @@
-## Welcome to my GitHib Page.
+<h1 align="center">Welcome to my GitHib Page.</h1>
+
+
 
 <!--
 **SeanMurphy1479/SeanMurphy1479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
