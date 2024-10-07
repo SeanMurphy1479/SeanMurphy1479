@@ -13,6 +13,16 @@
   </a>
   </a></p>
 
+  <h3 align="center"> 📊 My GitHub Stats: </h3>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=holi" alt="SeanMurphy1479" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=holi" alt="SeanMurphy1479" width="500" height="200" />
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+</p>
+
+
 
 <!--
 **SeanMurphy1479/SeanMurphy1479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
