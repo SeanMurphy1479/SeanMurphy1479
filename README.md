@@ -24,7 +24,7 @@
 ##
   <h3 align="center"> 💡 Currently Working On 💡 </h3>
   <p align="center">
-    <a href="https://github.com/SeanMurphy1479/Soudwave---Discord_App"<img width='30%' src=""?username=SeanMurphy1479&repo=Soundwave---Discord_Bot&hide_border=false alt="Soundwave"></a>
+    <a href="https://github.com/SeanMurphy1479/Soudwave---Discord_Bot"<img width='30%' src=""?username=SeanMurphy1479&repo=Soundwave---Discord_Bot&hide_border=false alt="Soundwave"></a>
 
 ##
   <h3 align="center"> 🖥🖥️ Computing Tools and Languages 🖥️🖥 </h3>
