@@ -22,11 +22,9 @@
 </p>
 
 ##
+
 <h3 align="center"> 💡 Currently Working On 💡 </h3>
-<p align="center"> 
-    <strong>Soundwave - Discord Bot</strong><br>
-    TEST
-</p>
+
 <p align="center">
     <a href="https://github.com/SeanMurphy1479/Soundwave---Discord_Bot">
         <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SeanMurphy1479&repo=Soundwave---Discord_Bot&hide_border=false&theme=radical&show_icons=true" alt="Soundwave - Discord Bot">
