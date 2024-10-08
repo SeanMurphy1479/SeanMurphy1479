@@ -64,6 +64,8 @@
   [![GitHub Actions Badge](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)]()
   [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
   [![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)]()
+  [![Node JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)]()
+  
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
