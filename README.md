@@ -43,6 +43,8 @@
 
 ##
   <h1 align="center"> 🖥🖥️ Computing Tools and Languages 🖥️🖥 </h3>
+
+  <div align=center>
   
   [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
   [![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -79,6 +81,7 @@
   [![Sublime Text Badge](https://img.shields.io/badge/-Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)]()
   [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
 
+  </div>
 
 ##
   <h1 align="center"> 📊 My GitHub Stats 📊 </h3>
