@@ -15,7 +15,7 @@
   
 <a href="https://www.linkedin.com/in/se%C3%A1n--murphy/">
   <img src="https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white" 
-  alt="Linkedin Badge" style="height: 50px; width: 200px;">
+  alt="Linkedin Badge" style="height: 50px; width: 250px;">
 </a>
 
 <a href="mailto:seanm6077@gmail.com">
