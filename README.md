@@ -12,12 +12,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
 
 <p align="center">
-  <a href="mailto:seanm6077@gmail.com" style="text-decoration: none;">
-    <img alt="Email" title="Email" src="https://custom-icon-badges.herokuapp.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block; background-color: #8a2be2; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.linkedin.com/in/seán--murphy/" style="text-decoration: none;">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.herokuapp.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block; background-color: #0077B5; color: white; padding: 30px 50px; border-radius: 10px; font-size: 18px;">
+[![Linkedin Badge](https://img.shields.io/badge/-jackduggan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackduggan/)](https://www.linkedin.com/in/jackduggan/)
+[![Gmail Badge](https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seanm6077@gmail.com)](mailto:seanm6077@gmail.com)
   </a>
 </p>
 
