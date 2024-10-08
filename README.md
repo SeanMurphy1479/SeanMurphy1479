@@ -51,6 +51,14 @@
   [![Kali Badge](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)]()
   [![Cisco IOS Badge](https://img.shields.io/badge/-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
 
+  [![BASH Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)]()
+  [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+  [![Java Badge](https://img.shields.io/badge/-Java-0d6eb5?style=flat-square&logo=java&logoColor=white)]()
+  [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-2e302b?style=flat-square&logo=javascript&logoColor=#7DF1E)]()
+  [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+  [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+  [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)]()
+
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
