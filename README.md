@@ -79,7 +79,7 @@
   [![Burp Suite Badge](https://img.shields.io/badge/-Burp_Suite-00A3E0?style=flat-square&logo=burpsuite&logoColor=white)]()
   [![Kali Linux Badge](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)]()
   [![Sublime Text Badge](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)]()
-  [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=better-default&logo=visual-studio-code&logoColor=white)]()
+  [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=social&logo=visual-studio-code&logoColor=white)]()
 
 
 ##
