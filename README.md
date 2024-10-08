@@ -7,7 +7,7 @@
 
 ##
 
-<h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
+<h1 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
 <div align="center">
   
@@ -30,7 +30,7 @@
 
 ##
 
-<h3 align="center"> 💡 Currently Working On 💡 </h3>
+<h1 align="center"> 💡 Currently Working On 💡 </h3>
 
 <p align="center">
     <a href="https://github.com/SeanMurphy1479/Soundwave---Discord_Bot">
@@ -42,7 +42,7 @@
 
 
 ##
-  <h3 align="center"> 🖥🖥️ Computing Tools and Languages 🖥️🖥 </h3>
+  <h1 align="center"> 🖥🖥️ Computing Tools and Languages 🖥️🖥 </h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40" style="padding:5px;"/>
@@ -79,7 +79,7 @@
 
 
 ##
-  <h3 align="center"> 📊 My GitHub Stats 📊 </h3>
+  <h1 align="center"> 📊 My GitHub Stats 📊 </h3>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="SeanMurphy1479" />
   <br>
