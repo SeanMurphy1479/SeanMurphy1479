@@ -9,23 +9,24 @@
 
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
-
-<div align=center>
+<div align="center">
   
-<a href="https://www.linkedin.com/in/se%C3%A1n--murphy/">
-  <img src="https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white" 
-  alt="Linkedin Badge" style="height: 40px; width: 200px;">
-</a>
+  <a href="https://www.linkedin.com/in/se%C3%A1n--murphy/">
+    <img src="https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white" 
+    alt="Linkedin Badge" style="height: 40px; width: 200px;">
+  </a>
 
-<a href="mailto:seanm6077@gmail.com">
-  <img src="https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" 
-  alt="Gmail Badge" style="height: 40px; width: 250px;">
-</a>
+  <a href="mailto:seanm6077@gmail.com">
+    <img src="https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" 
+    alt="Gmail Badge" style="height: 40px; width: 250px;">
+  </a>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
-
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=SeanMurphy1479" style="height: 40px;" />
+  </p>
 
 </div>
+
 
 ##
 
