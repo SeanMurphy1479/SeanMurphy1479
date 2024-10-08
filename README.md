@@ -50,7 +50,6 @@
   [![RHEL Badge](https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)]()
   [![Kali Badge](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)]()
   [![Cisco IOS Badge](https://img.shields.io/badge/-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
-
   [![BASH Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)]()
   [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
   [![Java Badge](https://img.shields.io/badge/-Java-0d6eb5?style=flat-square&logo=java&logoColor=white)]()
@@ -58,7 +57,13 @@
   [![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)]()
   [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)]()
   [![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)]()
-
+  [![VMWare Badge](https://img.shields.io/badge/-VMWare-607078?style=flat-square&logo=vmware&logoColor=white)]()
+  [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)]()
+  [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)]()
+  [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]()
+  [![GitHub Actions Badge](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)]()
+  [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
+  [![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)]()
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
