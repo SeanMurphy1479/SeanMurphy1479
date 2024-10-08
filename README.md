@@ -14,7 +14,6 @@
 <p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-jackduggan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackduggan/)](https://www.linkedin.com/in/jackduggan/)
 [![Gmail Badge](https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seanm6077@gmail.com)](mailto:seanm6077@gmail.com)
-  </a>
 </p>
 
 ##
