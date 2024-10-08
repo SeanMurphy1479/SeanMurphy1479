@@ -11,9 +11,10 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
 
-
+<div align=center>
 [![Linkedin Badge](https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seán--murphy/)](https://www.linkedin.com/in/se%C3%A1n--murphy)
 [![Gmail Badge](https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seanm6077@gmail.com)](mailto:seanm6077@gmail.com)
+</div>
 
 ##
 
