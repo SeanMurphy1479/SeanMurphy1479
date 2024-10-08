@@ -15,12 +15,12 @@
   
 <a href="https://www.linkedin.com/in/se%C3%A1n--murphy/">
   <img src="https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white" 
-  alt="Linkedin Badge" style="height: 50px; width: 250px;">
+  alt="Linkedin Badge" style="height: 50px; width: 350px;">
 </a>
 
 <a href="mailto:seanm6077@gmail.com">
   <img src="https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" 
-  alt="Gmail Badge" style="height: 50px; width: 250px;">
+  alt="Gmail Badge" style="height: 50px; width: 350px;">
 </a>
 
 </div>
