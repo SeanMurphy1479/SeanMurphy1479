@@ -9,7 +9,6 @@
 
 <h3 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
 
 <div align=center>
   
@@ -22,6 +21,9 @@
   <img src="https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" 
   alt="Gmail Badge" style="height: 40px; width: 250px;">
 </a>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=SeanMurphy1479"&style=plastic/> </p>
+
 
 </div>
 
