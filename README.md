@@ -65,6 +65,28 @@
   [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
   [![Canva Badge](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)]()
   [![Node JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)]()
+  [![C Badge](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)]()
+  [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+  [![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)]()
+  [![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)]()
+  [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)]()
+  [![Rust Badge](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)]()
+  [![Swift Badge](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)]()
+  [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+  [![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)]()
+  [![Ansible Badge](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)]()
+  [![Terraform Badge](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)]()
+  [![Splunk Badge](https://img.shields.io/badge/-Splunk-0072C6?style=flat-square&logo=splunk&logoColor=white)]()
+  [![Wireshark Badge](https://img.shields.io/badge/-Wireshark-3D7BBA?style=flat-square&logo=wireshark&logoColor=white)]()
+  [![Metasploit Badge](https://img.shields.io/badge/-Metasploit-7B3F00?style=flat-square&logo=metasploit&logoColor=white)]()
+  [![Burp Suite Badge](https://img.shields.io/badge/-Burp_Suite-00A3E0?style=flat-square&logo=burpsuite&logoColor=white)]()
+  [![Maltego Badge](https://img.shields.io/badge/-Maltego-FFCC00?style=flat-square&logo=maltego&logoColor=black)]()
+  [![Kali Linux Badge](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)]()
+  [![Sublime Text Badge](https://img.shields.io/badge/-Sublime_Text-FF9800?style=flat-square&logo=sublime-text&logoColor=white)]()
+  [![Visual Studio Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]()
+  [![Eclipse Badge](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)]()
+  [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)]()
+
   
 <p align="center">
 
