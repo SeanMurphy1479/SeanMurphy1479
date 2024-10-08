@@ -13,8 +13,15 @@
 
 <div align=center>
   
-[![Linkedin Badge](https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seán--murphy/)](https://www.linkedin.com/in/se%C3%A1n--murphy)
-[![Gmail Badge](https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seanm6077@gmail.com)](mailto:seanm6077@gmail.com)
+<a href="https://www.linkedin.com/in/se%C3%A1n--murphy/">
+  <img src="https://img.shields.io/badge/seán--murphy-blue?style=flat-square&logo=Linkedin&logoColor=white" 
+  alt="Linkedin Badge" style="height: 50px; width: 200px;">
+</a>
+
+<a href="mailto:seanm6077@gmail.com">
+  <img src="https://img.shields.io/badge/-seanm6077@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" 
+  alt="Gmail Badge" style="height: 50px; width: 250px;">
+</a>
 
 </div>
 
