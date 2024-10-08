@@ -44,6 +44,14 @@
 ##
   <h1 align="center"> 🖥🖥️ Computing Tools and Languages 🖥️🖥 </h3>
 <p align="center">
+[![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
+[![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
+[![Fedora Badge](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)]()
+[![RHEL Badge](https://img.shields.io/badge/-RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)]()
+[![CentOS Badge](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white)]()
+[![Raspbian Badge](https://img.shields.io/badge/-Raspbian-A22846?style=flat-square&logo=raspberrypi&logoColor=white)]()
+[![Kali Badge](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)]()
+[![Cisco IOS Badge](https://img.shields.io/badge/-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white)]()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" alt="Windows" width="40" height="40" style="padding:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40" height="40" style="padding:5px;"/>
