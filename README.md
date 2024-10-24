@@ -88,7 +88,7 @@
 
 <details>
   <summary>
-    <table><tr><td align="center"><h1> 📊 <b>My GitHub Stats</b> 📊 </h1></td></tr></table>
+    <table align="center"><tr><td align="center"><h1> 📊 <b>My GitHub Stats</b> 📊 </h1></td></tr></table>
   </summary>
   <br>
   <p align="center">
