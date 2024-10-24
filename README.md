@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub Page</h1>
+<h1 align="center">Seán Murphy</h1>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" alt="pixel art" width="80%" height="80%">
@@ -7,7 +7,7 @@
 
 ##
 
-<h1 align="center">My name is Seán Murphy, and I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
+<h1 align="center">I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h3>
 
 <div align="center">
   
