@@ -85,6 +85,8 @@
   </div>
 
 ##
+
+<details>
   <h1 align="center"> 📊 My GitHub Stats 📊 </h3>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="SeanMurphy1479" />
@@ -93,6 +95,7 @@
   <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
+</details>
 ##
 
 <!--
