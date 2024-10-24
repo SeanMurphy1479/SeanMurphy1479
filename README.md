@@ -85,11 +85,10 @@
   </div>
 
 ##
-
 <details>
-  <div align="center">
-  <summary> <h1> 📊 <b>My GitHub Stats</b> 📊 </h1> </summary>
-  </div>
+  <summary>
+    <p align="center" style="font-size: 2em; font-weight: bold;"> 📊 <b>My GitHub Stats</b> 📊 </p>
+  </summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="Top Languages" />
@@ -101,6 +100,7 @@
     </a>
   </p>
 </details>
+
 
 
 ##
