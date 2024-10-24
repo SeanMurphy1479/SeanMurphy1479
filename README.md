@@ -1,4 +1,4 @@
-<h1 align="center">Seán Murphy</h1>
+<h1 align="center">Hi, I'm Seán Murphy 👋 </b> </h1>
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif" alt="pixel art" width="80%" height="80%">
