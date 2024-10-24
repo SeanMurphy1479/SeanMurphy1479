@@ -87,7 +87,7 @@
 ##
 
 <details>
-  <summary><h3 align="center"> 📊 <b>My GitHub Stats</b> </p> 📊</summary>
+  <summary><h1 align="center"> 📊 <b>My GitHub Stats</b> </p> 📊</summary>
   <br>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="Top Languages" />
