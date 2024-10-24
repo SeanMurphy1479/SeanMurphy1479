@@ -88,7 +88,7 @@
 
 <details>
   <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;"> 📊 My GitHub Stats 📊 </summary>
-  <div style="text-align: center; padding: 10px;">
+  <div align="center" style="text-align: center; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="Top Languages" style="margin-bottom: 10px; max-width: 100%; height: auto;" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Stats" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
