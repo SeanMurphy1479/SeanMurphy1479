@@ -86,16 +86,19 @@
 
 ##
 
-<details align="center">
-  <summary align="senter"> 📊 My GitHub Stats 📊 </h3> </summary>
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="SeanMurphy1479" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="SeanMurphy1479" width="500" height="200" />
-  <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
-
+<details>
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;"> 📊 My GitHub Stats 📊 </summary>
+  <div style="text-align: center; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanMurphy1479&layout=donut&theme=tokyonight" alt="Top Languages" style="margin-bottom: 10px; max-width: 100%; height: auto;" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Stats" style="max-width: 100%; height: auto; margin-bottom: 10px;" />
+    <br>
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SeanMurphy1479&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+    </a>
+  </div>
 </details>
+
 
 ##
 
