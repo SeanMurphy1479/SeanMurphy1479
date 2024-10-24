@@ -85,9 +85,10 @@
   </div>
 
 ##
+
 <details>
   <summary>
-    <p align="center" style="font-size: 2em; font-weight: bold;"> 📊 <b>My GitHub Stats</b> 📊 </p>
+    <table><tr><td align="center"><h1> 📊 <b>My GitHub Stats</b> 📊 </h1></td></tr></table>
   </summary>
   <br>
   <p align="center">
@@ -100,6 +101,7 @@
     </a>
   </p>
 </details>
+
 
 
 
