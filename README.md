@@ -96,7 +96,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Stats" />
     <br>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SeanMurphy1479&theme=tokyonight" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SeanMurphy1479" alt="GitHub Streak" /></a>
   </p>
 </details>
 
