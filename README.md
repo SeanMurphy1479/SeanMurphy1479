@@ -96,6 +96,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=SeanMurphy1479&rank_icon=github&show_icons=true&theme=tokyonight&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Stats" />
     <br>
+    <img src="https://streak-stats.demolab.com/?user=SeanMurphy1479&theme=tokyonight"
   </p>
 </details>
 
