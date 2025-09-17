@@ -7,7 +7,7 @@
 
 ##
 
-<h1 align="center">I am currently a third-year student pursuing a BSc(Honours) in Computer Forensics and Security </h1>
+<h1 align="center">I am currently a fourth-year student pursuing a BSc(Honours) in Computer Forensics and Security </h1>
 
 <div align="center">
   
